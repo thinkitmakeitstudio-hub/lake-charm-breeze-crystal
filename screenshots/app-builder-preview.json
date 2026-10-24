@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Adventure Cards",
+      "hasCanvas": false,
+      "bodyTextLen": 1552,
+      "bodyTextHash": "b8a9f88e8c436bcce2df790fbc1938e02fa607e270d91427512558710e3b1e2b",
+      "bodyTextPrefix": "GUILD HALL Adventure Cards Draft up to four heroes, pick a door,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Adventure Cards",
+      "hasCanvas": false,
+      "bodyTextLen": 1552,
+      "bodyTextHash": "b8a9f88e8c436bcce2df790fbc1938e02fa607e270d91427512558710e3b1e2b",
+      "bodyTextPrefix": "GUILD HALL Adventure Cards Draft up to four heroes, pick a door,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
